@@ -1,5 +1,1 @@
-/* Base reset — full design system lives in styles/editorial.css */
-* { margin: 0; }
-html, body { padding: 0; }
-img, svg { display: block; max-width: 100%; }
-button { font-family: inherit; }
+/* Global styles live in src/styles/site.css */
