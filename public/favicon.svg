@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path d="M8 62V30a24 24 0 0 1 48 0v32z" fill="#1e2130"/>
+  <path d="M8 62V30a24 24 0 0 1 48 0v32" fill="none" stroke="#eeb7b2" stroke-width="2.5"/>
+  <text x="32" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#ebe8e3">TC</text>
+</svg>
